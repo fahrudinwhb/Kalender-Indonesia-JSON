@@ -515,28 +515,10 @@
       "dimodifikasi": "20210826T115903Z",
       "status": "CONFIRMED"
   },
-  "20221024": {
-      "deskripsi": "Diwali / Deepavali",
-      "dibuat": "20210826T115917Z",
-      "dimodifikasi": "20210826T115917Z",
-      "status": "CONFIRMED"
-  },
   "20221112": {
       "deskripsi": "Hari Ayah",
       "dibuat": "20210826T115907Z",
       "dimodifikasi": "20210826T115907Z",
-      "status": "CONFIRMED"
-  },
-  "20221125": {
-      "deskripsi": "Hari Guru",
-      "dibuat": "20210826T115907Z",
-      "dimodifikasi": "20210826T115907Z",
-      "status": "CONFIRMED"
-  },
-  "20221222": {
-      "deskripsi": "Hari Ibu",
-      "dibuat": "20210826T115903Z",
-      "dimodifikasi": "20210826T115903Z",
       "status": "CONFIRMED"
   },
   "20221224": {
@@ -557,5 +539,6 @@
       "dimodifikasi": "20210826T115917Z",
       "status": "CONFIRMED"
   },
-  "created-at": "2020-11-07 04:05"
+  "created-at": "2020-11-07 04:05",
+  "updated-at": "2022-05-13 14:15"
 }

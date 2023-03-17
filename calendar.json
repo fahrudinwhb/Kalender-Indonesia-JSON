@@ -545,6 +545,12 @@
     "dimodifikasi": "20230313T115917Z",
     "status": "CONFIRMED"
   },
+  "20230323": {
+    "deskripsi": "Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)",
+    "dibuat": "20230317T115917Z",
+    "dimodifikasi": "20230317T115917Z",
+    "status": "CONFIRMED"
+  },
   "20230407": {
     "deskripsi": "Wafat Isa Almasih",
     "dibuat": "20230313T115917Z",
@@ -606,5 +612,5 @@
     "status": "CONFIRMED"
   },
   "created-at": "2020-11-07 04:05",
-  "updated-at": "2023-03-13 12:51"
+  "updated-at": "2023-03-17 14:37"
 }

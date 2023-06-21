@@ -617,8 +617,20 @@
     "dimodifikasi": "20210826T115917Z",
     "status": "CONFIRMED"
   },
+  "20230638": {
+    "deskripsi": "Cuti Bersama Idul Adha (Lebaran Haji)",
+    "dibuat": "20230313T115917Z",
+    "dimodifikasi": "20210826T115917Z",
+    "status": "CONFIRMED"
+  },
   "20230629": {
     "deskripsi": "Idul Adha (Lebaran Haji)",
+    "dibuat": "20230313T115917Z",
+    "dimodifikasi": "20210826T115917Z",
+    "status": "CONFIRMED"
+  },
+  "20230630": {
+    "deskripsi": "Cuti Bersama Idul Adha (Lebaran Haji)",
     "dibuat": "20230313T115917Z",
     "dimodifikasi": "20210826T115917Z",
     "status": "CONFIRMED"
@@ -648,5 +660,5 @@
     "status": "CONFIRMED"
   },
   "created-at": "2020-11-07 04:05",
-  "updated-at": "2023-03-17 14:37"
+  "updated-at": "2023-06-21 14:51"
 }
